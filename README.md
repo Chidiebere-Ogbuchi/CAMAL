@@ -1,5 +1,7 @@
 # CAMAL
-This repository contains the codes of the CAMAL components concepts implemented by me during the internship from Mar 1, 2024 to August 31, 2024.
+This repository contains the codes of the CAMAL components concepts implemented by me during the thesis internship from Mar 1, 2024 to August 31, 2024.
+
+The thesis internship introduced CAMAL, a learning-guided approach that enhances the self-adaptability of IoT systems by integrating Causal Discovery and Model-Agnostic Meta-Learning (MAML) techniques into the MAPE-K framework.
 
 # Testing Notebook
 
